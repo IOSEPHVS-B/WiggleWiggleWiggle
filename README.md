@@ -1,0 +1,1 @@
+Recreated the earthbound background split sine wave background movement thing, included screenshot for reference. The background lines slowly move downwards on the y axis while each line wiggles sinusoidally left to right, even lines moving opposite the odd ones.
